@@ -1,0 +1,13 @@
+.authForm {
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* .authForm input {
+  margin: 50%;
+} */
+
+.submitButton {
+  display: block;
+}
