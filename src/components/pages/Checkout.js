@@ -1,12 +1,11 @@
 import PaymentForm from "../forms/PaymentForm";
 
-const Home = () => {
+const Checkout = () => {
   return (
     <div>
-      Some content
       <PaymentForm />
     </div>
   );
 };
 
-export default Home;
+export default Checkout;
